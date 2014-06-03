@@ -1,0 +1,2 @@
+pmanager is a replica policy distributor
+by typing in replica policies manually, this pmanager then distributes replica policy to replica servers that was set. and also it maintains the alive information of the replica servers. it only transfer policy to alive replica server.

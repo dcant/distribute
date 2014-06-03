@@ -1,0 +1,2 @@
+replica works as replica server
+it receives data's replica policy and then keeps this information in memory. it also send heartbeat to pmanager at regular time in order that pmanager knows it's alive.
